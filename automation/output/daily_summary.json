@@ -1,15 +1,15 @@
 {
-  "run_date": "2026-11-16",
+  "run_date": "2026-11-23",
   "data_through": "2026-09",
   "lagged_series": [
-    "SPREAD (last: 2026-09)",
+    "SPREAD (last: 2026-10)",
     "HSN1F_YOY (last: 2026-09)",
-    "FEDFUNDS (last: 2026-09)",
-    "CPILFESL_YOY (last: 2026-09)",
-    "PPIACO_YOY (last: 2026-09)",
-    "HOUST_YOY (last: 2026-09)"
+    "FEDFUNDS (last: 2026-10)",
+    "CPILFESL_YOY (last: 2026-10)",
+    "PPIACO_YOY (last: 2026-10)",
+    "HOUST_YOY (last: 2026-10)"
   ],
-  "ensemble_probability": 9.07,
+  "ensemble_probability": 9.01,
   "bic_probability": 17.82,
   "ci_lower": 10.81,
   "ci_upper": 24.31,
@@ -19,7 +19,7 @@
     "NY Fed (Spread Only)": 11.42,
     "Wright (Spread + FF)": 7.33,
     "BIC-Selected": 17.82,
-    "Estrella-Mishkin": 8.4,
+    "Estrella-Mishkin": 8.06,
     "Chauvet-Piger": 0.4
   },
   "bic_selected_features": [
